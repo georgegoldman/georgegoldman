@@ -1,1 +1,1 @@
-Mobile Engineer | Dart & C++ Specialist | Passionate about building seamless and efficient mobile applications.
+Software Engineer | Node.js Specialist | Passionate about building seamless and efficient mobile applications.
