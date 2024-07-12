@@ -27,5 +27,5 @@ A full-stack e-commerce platform with user authentication, product listings, sho
 
 ## 📫 Contact
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/georgegoldmanjohn/)
-- **Email:** [your.email@example.com](mailto:georgegoldmanjohn.o@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/georgegoldmanjohn/)
+- **Email:** [📭](mailto:georgegoldmanjohn.o@gmail.com)
