@@ -4,7 +4,7 @@ Hi, I'm George-Goldman! I'm a passionate developer with expertise in UI developm
 
 ## 🛠 Skills
 - **Dart**: Flutter, UI Development
-- **Python**: FastAPI, Flask, Django
+- **Python**: Flask, Fast API
 - **C++**: System Programming, Performance Optimization
 - **Other**: Firebase, PostgreSQL, Docker
 
