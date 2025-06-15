@@ -18,7 +18,7 @@ I have a wide appetite for programming and solving problems—especially those w
 ### 🚀 Featured Project
 
 [🐬Iruka(イルカ)](https://github.com/georgegoldman/iruka)  
-*A project I'm proud of—exploring the edges of code and logic. Check it out!*
+*A project I'm proud of—exploring the edges decentralised storage and media!*
 
 ---
 
