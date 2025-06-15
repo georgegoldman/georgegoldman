@@ -17,7 +17,7 @@ I have a wide appetite for programming and solving problems—especially those w
 
 ### 🚀 Featured Project
 
-[block-codeX/thanos](https://github.com/block-codeX/thanos)  
+[🐬Iruka(イルカ)](https://github.com/georgegoldman/iruka)  
 *A project I'm proud of—exploring the edges of code and logic. Check it out!*
 
 ---
