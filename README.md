@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George-Goldman Onyedikachi John
 
-## 👨‍🏫 Mathematician | Programming Enthusiast | Architect of Abstractions
+## Software engineer
 
 Welcome to my GitHub!  
 I have a wide appetite for programming and solving problems—especially those where logic, abstraction, and thoughtful architecturing make all the difference.
