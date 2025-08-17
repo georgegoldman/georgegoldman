@@ -1,4 +1,4 @@
-# 👋 Hi, I'm George-Goldman Onyedikachi John
+# 👋 Hi, I'm George-Goldman John Onyedikachi
 
 ## Software engineer
 
