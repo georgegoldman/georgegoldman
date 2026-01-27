@@ -1,4 +1,4 @@
-# Hi, I’m George Goldman 👋
+# Hi, I’m George-Goldman Onyedikachi John 👋
 
 ## Senior Backend Engineer · Distributed Systems · Transactional Infrastructure
 
