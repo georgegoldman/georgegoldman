@@ -1,6 +1,6 @@
 # Hi, I’m George-Goldman Onyedikachi John 👋
 
-## Senior Backend Engineer · Distributed & Decentralized Systems · Transactional Infrastructure
+## Backend Engineer · Distributed & Decentralized Systems · Transactional Infrastructure
 
 I’m a backend engineer focused on **building reliable, transaction-heavy systems** with strong correctness guarantees.
 
