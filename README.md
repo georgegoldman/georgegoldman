@@ -56,5 +56,5 @@ While some of my experience comes from blockchain-adjacent and cryptography-infl
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/georgegoldmanjohn  
-- GitHub: https://github.com/georgegoldman  
+- Substack: [0xgoldman](https://substack.com/@0xgoldman)  
 - X / Twitter: https://x.com/0xgeorgegoldman
